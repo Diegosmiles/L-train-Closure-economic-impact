@@ -1,4 +1,12 @@
-# usi_L_train
+# L-train-Closure-economic-impact
+###calculating the economic impact on the Brooklyn area resulting from closing down two L train subway stations. 
+#### Urban Science Intensive Project for the Center of Urban Science and Progress at New York University
+##### Contributors:
+##### - Dan Quasney (www.brunchline.co)
+##### - Diego Garzòn (https://dfgarzon.weebly.com)
+##### - Maria Ortiz (https://github.com/maryooh)
+##### - Manushi Majumdar (https://github.com/ManushiM)
+
 Repo for the USI social impact project
 
 This repo includes all relevant files for the USI social impact project
@@ -12,5 +20,14 @@ usi_foot_traffic.ipynb - first pass estimate on measuring the impact of reducing
 
 usi_final_calculations - combines ui_loss and usi_foot_traffic to determine estimated financial impact on the local economy
 
+USI_L-train.pdf - the complete report of the project, including goals, methodology, results, conclusions and social impact
+
+usi_L_train_team_12.pdf - slideshow that provides an overview of the project 
+
 ![Alt tag](work_diagram.png)
 - Methodology diagram
+
+
+
+
+
