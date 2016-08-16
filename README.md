@@ -11,3 +11,6 @@ usi_loss.ipynb - estimates size of the Williamsburg economy and size of the econ
 usi_foot_traffic.ipynb - first pass estimate on measuring the impact of reducing the amount of foot traffic in the area
 
 usi_final_calculations - combines ui_loss and usi_foot_traffic to determine estimated financial impact on the local economy
+
+![Alt tag](work_diagram.png)
+- Methodology diagram
